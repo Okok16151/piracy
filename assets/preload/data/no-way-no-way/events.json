@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "NEEDLEMOUSESTAGE",
+		"player1": "bf",
+		"player2": "NEEDLEMOUSE",
+		"player3": null,
+		"events": [
+			[
+				105339.366515837,
+				[
+					[
+						"Change Character",
+						"1",
+						"Knux"
+					]
+				]
+			],
+			[
+				122714.932126697,
+				[
+					[
+						"Change Character",
+						"1",
+						"NEEDLEMOUSE"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 221,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No way No way"
+	}
+}
