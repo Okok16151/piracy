@@ -1,0 +1,64 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "exampleStage1",
+		"player1": "dark_bf",
+		"player2": "PIRACY_SONIC",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"death",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84342.8571428571,
+				[
+					[
+						"Play Animation",
+						"IMOUTTAHERE",
+						"Dad"
+					]
+				]
+			],
+			[
+				150857.142857143,
+				[
+					[
+						"Opponent Fade",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				159488.571428571,
+				[
+					[
+						"Play Animation",
+						"cheer",
+						"GF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"BF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "none",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "regret"
+	}
+}
